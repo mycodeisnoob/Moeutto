@@ -1,6 +1,6 @@
 # 👕 모으또 (Moeutto) 👕
 
-![모으또_표지](/uploads/3092b49c42c37dc664d60ef1010f39cc/모으또_표지.PNG)
+![모으또 표지](https://github.com/mycodeisnoob/moeutto/assets/90905159/aea8b698-50f8-4154-83bd-63cc88eb955c)
 
 > 옷장 관리, 분석 및 날씨 기반 착장 추천 서비스
 
@@ -148,7 +148,7 @@
 
 ## 아키텍처
 
-![아키텍처](/uploads/fde1818acedff181f29ea0f58649a443/제목_없음.png)
+![모으또 아키텍처](https://github.com/mycodeisnoob/moeutto/assets/90905159/b224256b-64ca-4e17-8dc6-5abbedc84e86)
 
 <br/>
 

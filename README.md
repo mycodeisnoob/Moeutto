@@ -1,5 +1,7 @@
 # 👕 모으또 (Moeutto) 👕
 
+## 삼성청년SW아카데미 자율프로젝트 우수상 수상
+
 ![모으또 표지](https://github.com/mycodeisnoob/moeutto/assets/90905159/aea8b698-50f8-4154-83bd-63cc88eb955c)
 
 > 옷장 관리, 분석 및 날씨 기반 착장 추천 서비스
